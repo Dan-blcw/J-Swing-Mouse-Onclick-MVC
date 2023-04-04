@@ -1,9 +1,13 @@
 # Java Swing Gui Mouse Onclick MVC
 ## The purpose
 - this is a microcosm of the MVC pattern and for this demo I simply describe how to configure and handle tasks using ActionListener
-
+- By implementing two interfaces MouseListener and MouseMotionListener through Controller_mouse we will receive mouse events from the user side and go through the Controller_mouse flow to the View and return the user feedback.
 ## Note  (｡◝‿◜｡)ノ
 #### That the mouse here because I use computer screen capture so it is not displayed, but basically this test is just to describe the flow of the MVC model, how we handle conflicts and actionlistener like just how. It is quite simple for beginners to learn about the MVC pattern. If you are new, read it
+## Function
+- Display the position of the mouse on the bounded area(X,Y)
+- Count number of Onclicks and display
+- check if the mouse is inside the component and return the response as text
 ## Prerequisites
 - JDK 19
 ## Demo
