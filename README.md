@@ -10,6 +10,16 @@
 - check if the mouse is inside the component and return the response as text
 ## Prerequisites
 - JDK 19
+## Summary chart
+```
+- src
+      - AreaView.java
+      - Controller_mouse.java
+      - MouseArea.java
+      - mouseExampleModel.java
+      - mouseExampleView.java
+      - test.java   -> Run
+```
 ## Demo
 #### initial
 ![image](https://user-images.githubusercontent.com/127305381/229908708-d9e44c30-2a47-47a5-971e-c440dff29f85.png)
