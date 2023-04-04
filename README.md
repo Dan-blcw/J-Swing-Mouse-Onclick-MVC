@@ -1,6 +1,7 @@
 # Java Swing Gui Mouse Onclick MVC
 ## The purpose
 - this is a microcosm of the MVC pattern and for this demo I simply describe how to configure and handle tasks using ActionListener
+###Note that the mouse here because I use computer screen capture so it is not displayed, but basically this test is just to describe the flow of the MVC model, how we handle conflicts and actionlistener like just how. It is quite simple for beginners to learn about the MVC pattern. If you are new, read it
 ## Prerequisites
 - JDK 19
 ## Demo
